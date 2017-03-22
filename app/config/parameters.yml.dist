@@ -17,3 +17,9 @@ parameters:
 
     # A secret key that's used to generate certain security-related tokens
     secret:            ThisTokenIsNotSoSecretChangeIt
+    jira_host:  'http://jira.rboptions.local:8080'
+    jira_user:  ~
+    jira_password:  ~
+    default.search.params:
+        startAt: 0
+        maxResults: 100
