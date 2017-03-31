@@ -29,7 +29,7 @@
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "^2.0",
         "twig/twig": "^1.0||^2.0",
-        "rbadmin/jira-bundle": "^1.5"
+        "rbadmin/jira-bundle": "^1.6"
     },
     "require-dev": {
         "sensio/generator-bundle": "^3.0",
@@ -53,7 +53,7 @@
     },
     "config": {
         "github-oauth": {
-            "github.com": "5991d3b17d599b7488a82f12c9bcef9d59e0ffe5"
+
         }
     },
     "extra": {
@@ -71,10 +71,6 @@
     "repositories": [
         {
             "url": "git@github.com:rbadmin/jira-bundle.git",
-            "type": "vcs"
-        },
-        {
-            "url": "git@github.com:alexa-rbo/php-jira-rest-client.git",
             "type": "vcs"
         }
     ]
