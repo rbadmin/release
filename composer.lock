@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "770f885a53755b07941fcd8bb53a0d44",
+    "hash": "4452c49cb4f76896469a598ff9d3beaa",
     "content-hash": "9db8ab17386d663f36b79863a1d6c1c3",
     "packages": [
         {
@@ -1188,16 +1188,16 @@
         },
         {
             "name": "rbadmin/jira-bundle",
-            "version": "v1.6.0",
+            "version": "v1.7.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:rbadmin/jira-bundle.git",
-                "reference": "500dc93a512915282826f777654c729803414c29"
+                "reference": "6b3f6c1e685f40d990c132bfe76caba70d61f819"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rbadmin/jira-bundle/zipball/500dc93a512915282826f777654c729803414c29",
-                "reference": "500dc93a512915282826f777654c729803414c29",
+                "url": "https://api.github.com/repos/rbadmin/jira-bundle/zipball/6b3f6c1e685f40d990c132bfe76caba70d61f819",
+                "reference": "6b3f6c1e685f40d990c132bfe76caba70d61f819",
                 "shasum": ""
             },
             "require": {
@@ -1219,10 +1219,10 @@
             ],
             "description": "Jira Bundle",
             "support": {
-                "source": "https://github.com/rbadmin/jira-bundle/tree/v1.6.0",
+                "source": "https://github.com/rbadmin/jira-bundle/tree/v1.7.0",
                 "issues": "https://github.com/rbadmin/jira-bundle/issues"
             },
-            "time": "2017-03-31 09:38:05"
+            "time": "2017-04-12 10:34:51"
         },
         {
             "name": "sensio/distribution-bundle",
