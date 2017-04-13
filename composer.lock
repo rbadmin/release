@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0bda880fb631499da0f479e7b8e29d5e",
-    "content-hash": "b0e3476a329daeda41ecfeef60e62ced",
+    "hash": "e27b9380d754add46db2a0a5b357a324",
+    "content-hash": "a8103f27df64fef71f2b56e5a28cec30",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -938,16 +938,16 @@
         },
         {
             "name": "lesstif/php-jira-rest-client",
-            "version": "1.10.5",
+            "version": "1.10.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lesstif/php-jira-rest-client.git",
-                "reference": "0bcd9923f986b8bc3b72276776ee0706cadc5f91"
+                "reference": "358693995bcdde916813c0bfc0cf4ea1701001fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lesstif/php-jira-rest-client/zipball/0bcd9923f986b8bc3b72276776ee0706cadc5f91",
-                "reference": "0bcd9923f986b8bc3b72276776ee0706cadc5f91",
+                "url": "https://api.github.com/repos/lesstif/php-jira-rest-client/zipball/358693995bcdde916813c0bfc0cf4ea1701001fa",
+                "reference": "358693995bcdde916813c0bfc0cf4ea1701001fa",
                 "shasum": ""
             },
             "require": {
@@ -985,7 +985,7 @@
                 "jira-rest",
                 "rest"
             ],
-            "time": "2017-03-24 13:53:09"
+            "time": "2017-04-13 10:53:15"
         },
         {
             "name": "monolog/monolog",
@@ -1247,16 +1247,16 @@
         },
         {
             "name": "rbadmin/jira-bundle",
-            "version": "v1.8.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:rbadmin/jira-bundle.git",
-                "reference": "6e866573e983543a7769ac2a42e1f70f97163944"
+                "reference": "260b6023094bb2965e21234bf693252c1d5601d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rbadmin/jira-bundle/zipball/6e866573e983543a7769ac2a42e1f70f97163944",
-                "reference": "6e866573e983543a7769ac2a42e1f70f97163944",
+                "url": "https://api.github.com/repos/rbadmin/jira-bundle/zipball/260b6023094bb2965e21234bf693252c1d5601d3",
+                "reference": "260b6023094bb2965e21234bf693252c1d5601d3",
                 "shasum": ""
             },
             "require": {
@@ -1278,10 +1278,10 @@
             ],
             "description": "Jira Bundle",
             "support": {
-                "source": "https://github.com/rbadmin/jira-bundle/tree/v1.8.0",
+                "source": "https://github.com/rbadmin/jira-bundle/tree/2.0.0",
                 "issues": "https://github.com/rbadmin/jira-bundle/issues"
             },
-            "time": "2017-04-12 14:42:59"
+            "time": "2017-04-13 12:34:47"
         },
         {
             "name": "sensio/distribution-bundle",
